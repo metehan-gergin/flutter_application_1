@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447442540638",
+    "project_id": "fitcore-66e17",
+    "storage_bucket": "fitcore-66e17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447442540638:android:fa8be8534aa5164336fccf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9s4_C_z3MoBC2rMv7VUOnx2DcHNBqdhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
